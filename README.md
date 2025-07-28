@@ -24,8 +24,8 @@ Hi, I'm **Aarti Vinkar** 👋
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![](https://github-readme-stats.vercel.app/aartivinkar)  
+![](https://github-readme-streak-stats.https://github.com/login)
 
 ---
 
@@ -36,7 +36,7 @@ Hi, I'm **Aarti Vinkar** 👋
 
 ## 📂 Repositories:
 <!-- Pinned repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name)https://github.com/vinkararti/devopsscripts.git)
+[![Readme Card](https://https://github.com/vinkararti/devopsscripts.git)
 
 ---
 
