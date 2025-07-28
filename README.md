@@ -36,7 +36,7 @@ Hi, I'm **Aarti Vinkar** 👋
 
 ## 📂 Repositories:
 <!-- Pinned repositories -->
-[![Readme Card](https://https://github.com/vinkararti/devopsscripts.git)
+[![awsdevops](https://https://github.com/vinkararti/devopsscripts.git)
 
 ---
 
@@ -47,6 +47,4 @@ Hi, I'm **Aarti Vinkar** 👋
 - Adaptability  
 - Time Management  
 
----
- Arti-vinkar
-Hello world, this is my profile
+
