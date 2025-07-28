@@ -24,9 +24,13 @@ Hi, I'm **Aarti Vinkar** 👋
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/aartivinkar)  
-![](https://github-readme-streak-stats.https://github.com/login)
-
+         Vinkar aarti github stats
+         Total stars Earned :37
+         Total commits : 50
+         Total PRS : 14
+         Total issues :0
+         
+      
 ---
 
 ## 📈 Activity Graph:
