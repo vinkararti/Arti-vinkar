@@ -3,12 +3,12 @@ Hi, I'm **Aarti Vinkar** 👋
 🚀 Passionate about DevOps, Cloud Computing & Automation  
 🎓 Currently learning at Naresh i Technologies  
 🌱 Always eager to learn new technologies and tools  
-📫 Reach me at: vinkararti@gmail.com
+📫 Reach me at: vinkaraarti@gmail.com
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/aarti-vinkar-872746268/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7LSgWuKYQxKhvlTCCa34og%3D%3D/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23ff69b4?style=flat-square&logo=about-dot-me&logoColor=white)](https://yourportfolio.com)
 
@@ -36,7 +36,7 @@ Hi, I'm **Aarti Vinkar** 👋
 
 ## 📂 Repositories:
 <!-- Pinned repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name)](https://github.com/your-username/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name)https://github.com/vinkararti/devopsscripts.git)
 
 ---
 
